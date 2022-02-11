@@ -1,0 +1,2 @@
+# Task5
+What is encryption &amp; decryption, Types of encryption,What is a Certificate Authority, Intermediate CA, Server &amp; Client cert?,Generate a self-signed client certificate using OpenSSL with Root CA certs, Intermediate CA certs, Server and client certificates, and attach the steps that you used to generate it. Attach the final certificates that you have generated.,How does SSH work?, What is key forwarding in SSH? How do you forward keys? Mention a use case, What is agent forwarding in SSH? How do you perform agent forwarding with SSH?  Mention a use case.
